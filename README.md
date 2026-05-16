@@ -56,14 +56,26 @@ NATARAJ KUMARAN S
 ### i) Write the frame as JPG image
 Captured image is saved as `captured_image.jpg`
 
+
+![Output Image](image.png)
+
 ### ii) Display the video
 Live webcam video is displayed
+
+![Output Image](image-1.png)
 
 ### iii) Display the video by resizing the window
 Video is shown in resized resolution (640 × 480)
 
+![Output Image](image-2.png)
+
 ### iv) Rotate and display the video
 Video is displayed after rotation (90° clockwise)
+
+![Output Image](image-3.png)
+
+
+
 
 ---
 
